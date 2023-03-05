@@ -1,0 +1,9 @@
+### 인덱스 확인
+GET http://localhost:8080/exists/simple-ecommerce-products/RhEnl4YBjey1jFVEq1Xk
+Content-Type: text/plain
+
+### 상품명 검색
+GET http://localhost:8080/search?q=올리브
+
+### 문서 검색
+GET http://localhost:8080/documents/simple-ecommerce-products/RhEnl4YBjey1jFVEq1Xk

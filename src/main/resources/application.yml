@@ -1,0 +1,13 @@
+
+spring:
+  elasticsearch:
+    rest:
+      host: localhost
+      port: 9200
+    fingerprint: "B2:ED:50:27:9B:3A:50:2C:EC:53:88:37:84:A6:97:F8:1E:D0:B6:0A:5B:40:35:0F:EE:C4:E3:9B:06:D1:19:B0"
+    account: "elastic"
+    password: "0xzxPJmkWTRvDKyQTRmY"
+
+fastcampus:
+  search:
+    index: "simple-ecommerce-products"
